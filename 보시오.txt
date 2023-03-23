@@ -1,6 +1,0 @@
-localpathplanning_DDPG2.m 이 메인코드
-new_lpp_sim_matfile.slx 가 시뮬링크 환경
-savedAgentsfinalAgent는 학습이 모두끝나면 나오는 가장 잘 학습 되었다고 여겨지는 에이전트(딥러닝에선 마지막 웨이트파일)
-savedAgents 45점의리워드를 넘으면 저장되게해서 생기는 폴더(지금 없음)
-busactor는 학습하기전에 항상 workspace로 불러야됨
-temp_lpp_env는 드라이빙시나리오 파일로 매트랩 터미널에 drivingScenarioDesigner라고치고 불러오면 열림
